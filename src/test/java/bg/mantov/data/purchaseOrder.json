@@ -1,0 +1,14 @@
+[
+  {
+    "email": "mantov@abc.com",
+    "password": "Pa$$1234",
+    "product": "ZARA COAT 3",
+    "country": "Bulgaria"
+  },
+  {
+    "email": "fantov@afa.com",
+    "password": "Pa$$1234",
+    "product": "ADIDAS ORIGINAL",
+    "country": "el salvador"
+  }
+]
