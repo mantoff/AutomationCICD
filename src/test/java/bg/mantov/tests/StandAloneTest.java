@@ -20,6 +20,7 @@ public class StandAloneTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
+//new comment added for demo purposes
         String productName = "ZARA COAT 3";
 
         driver.get("https://rahulshettyacademy.com/client");
